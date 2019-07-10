@@ -1,3 +1,3 @@
-# An interactive repository of climate initiatives happening around the world 
+# An interactive guide to climate initiatives around the world.
 
-Please feel free to add in initiatives that you know about. 
+Know of a project that isn't mentioned here? Submit at PR and I'll get it added to the list. 
