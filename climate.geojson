@@ -12,4 +12,82 @@
     "URL":"https://www.iru.org/resources/newsroom/iru-furthers-co2-reduction-policy-at-glec-consultation-seminar"
     }
   },
- 
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9822,40.75105 ]
+    },
+    "properties": {
+    "Initiative":"100 Resilient Cities",
+    "URL":"http://www.100resilientcities.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34558,48.87547 ]
+    },
+    "properties": {
+    "Initiative":"2050 Pathways Platform",
+    "URL":"http://www.2050pathways.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02366,38.88757 ]
+    },
+    "properties": {
+    "Initiative":"21st Century Truck Partnership",
+    "URL":"http://energy.gov/eere/vehicles/vehicle-technologies-office-21st-century-truck"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.87158,43.64183 ]
+    },
+    "properties": {
+    "Initiative":"4 : 1000 - Soils for Food Security and Climate",
+    "URL":"http://4p1000.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.06105,42.35302 ]
+    },
+    "properties": {
+    "Initiative":"Accelerating Change: Food & Beverage Leaders",
+    "URL":"http://www.ceres.org/press/press-releases/global-food-companies-unite-on-climate-action"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.49428,41.83001 ]
+    },
+    "properties": {
+    "Initiative":"Adaptation for Smallholder Agriculture Programme",
+    "URL":"https://www.ifad.org/web/guest/asap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04771,38.89958 ]
+    },
+    "properties": {
+    "Initiative":"Adaptation of West African Coastal Areas",
+    "URL":"http://www.worldbank.org/en/programs/west-africa-coastal-areas-management-program"
+    }
+  }
+]
+}
