@@ -5,96 +5,88 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.143235,46.21991 ]
     },
     "properties": {
     "Initiative":"30 by 30 Resolution",
-    "URL":"https://www.iru.org/resources/newsroom/iru-furthers-co2-reduction-policy-at-glec-consultation-seminar",
-    "Latitude":46.21991
+    "URL":"https://www.iru.org/resources/newsroom/iru-furthers-co2-reduction-policy-at-glec-consultation-seminar"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -73.9822,40.75105 ]
     },
     "properties": {
     "Initiative":"100 Resilient Cities",
-    "URL":"http://www.100resilientcities.org",
-    "Latitude":40.75105
+    "URL":"http://www.100resilientcities.org"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 2.34558,48.87547 ]
     },
     "properties": {
     "Initiative":"2050 Pathways Platform",
-    "URL":"http://www.2050pathways.org",
-    "Latitude":48.87547
+    "URL":"http://www.2050pathways.org"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -77.02366,38.88757 ]
     },
     "properties": {
     "Initiative":"21st Century Truck Partnership",
-    "URL":"http://energy.gov/eere/vehicles/vehicle-technologies-office-21st-century-truck",
-    "Latitude":38.88757
+    "URL":"http://energy.gov/eere/vehicles/vehicle-technologies-office-21st-century-truck"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 3.87158,43.64183 ]
     },
     "properties": {
     "Initiative":"4 : 1000 - Soils for Food Security and Climate",
-    "URL":"http://4p1000.org",
-    "Latitude":43.64183
+    "URL":"http://4p1000.org"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -71.06105,42.35302 ]
     },
     "properties": {
     "Initiative":"Accelerating Change: Food & Beverage Leaders",
-    "URL":"http://www.ceres.org/press/press-releases/global-food-companies-unite-on-climate-action",
-    "Latitude":42.35302
+    "URL":"http://www.ceres.org/press/press-releases/global-food-companies-unite-on-climate-action"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.49428,41.83001 ]
     },
     "properties": {
     "Initiative":"Adaptation for Smallholder Agriculture Programme",
-    "URL":"https://www.ifad.org/web/guest/asap",
-    "Latitude":41.83001
+    "URL":"https://www.ifad.org/web/guest/asap"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -77.04771,38.89958 ]
     },
     "properties": {
     "Initiative":"Adaptation of West African Coastal Areas",
-    "URL":"http://www.worldbank.org/en/programs/west-africa-coastal-areas-management-program",
-    "Latitude":38.89958
+    "URL":"http://www.worldbank.org/en/programs/west-africa-coastal-areas-management-program"
     }
   },
   {
@@ -105,104 +97,95 @@
     },
     "properties": {
     "Initiative":"Africa Renewable Energy Initiative",
-    "URL":"http://www.arei.org/",
-    "Latitude":null
+    "URL":"http://www.arei.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 28.12984,25.97401 ]
     },
     "properties": {
     "Initiative":"African Forest landscape Restoration (AFR100)",
-    "URL":"http://www.afr100.org/",
-    "Latitude":25.97401
+    "URL":"http://www.afr100.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -77.02878,38.89456 ]
     },
     "properties": {
     "Initiative":"AgSTAR",
-    "URL":"https://www.epa.gov/agstar",
-    "Latitude":38.89456
+    "URL":"https://www.epa.gov/agstar"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -7.61548,33.59646 ]
     },
     "properties": {
     "Initiative":"Airport Carbon Accreditation (ACI) Morroco",
-    "URL":"https://airportco2.org/",
-    "Latitude":33.59646
+    "URL":"https://airportco2.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 114.109497,22.396427 ]
     },
     "properties": {
     "Initiative":"Airport Carbon Accreditation (ACI) Asia-Pacific",
-    "URL":"https://airportco2.org/",
-    "Latitude":22.396427
+    "URL":"https://airportco2.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 4.351721,50.850346 ]
     },
     "properties": {
     "Initiative":"Airport Carbon Accreditation (ACI) Europe",
-    "URL":"https://airportco2.org/",
-    "Latitude":50.850346
+    "URL":"https://airportco2.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 79.519867,8.982379 ]
     },
     "properties": {
     "Initiative":"Airport Carbon Accreditation (ACI) Latin America & Caribbean",
-    "URL":"https://airportco2.org/",
-    "Latitude":8.982379
+    "URL":"https://airportco2.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -77.036873,38.907192 ]
     },
     "properties": {
     "Initiative":"Airport Carbon Accreditation (ACI) North America",
-    "URL":"https://airportco2.org/",
-    "Latitude":38.907192
+    "URL":"https://airportco2.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -58.381557,-34.603683 ]
     },
     "properties": {
     "Initiative":"Alliance for Climate Action - Argentinean Alliance for Climate Action",
-    "URL":"https://alliancesforclimateaction.com/",
-    "Latitude":-34.603683
+    "URL":"https://alliancesforclimateaction.com/"
     }
   },
   {
@@ -213,68 +196,62 @@
     },
     "properties": {
     "Initiative":"Alliance for Global Water Adaptation (AGWA)",
-    "URL":"http://alliance4water.org/",
-    "Latitude":null
+    "URL":"http://alliance4water.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -77.08527,38.89186 ]
     },
     "properties": {
     "Initiative":"Alliance for Responsible Atmospheric Policy",
-    "URL":"http://www.alliancepolicy.org/",
-    "Latitude":38.89186
+    "URL":"http://www.alliancepolicy.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 77.209023,28.613939 ]
     },
     "properties": {
     "Initiative":"Alliance for an Energy Efficient Economy (AEEE)",
-    "URL":"http://www.aeee.in/",
-    "Latitude":28.613939
+    "URL":"http://www.aeee.in/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -105.279617,40.016869 ]
     },
     "properties": {
     "Initiative":"America’s Pledge",
-    "URL":"http://www.americaspledgeonclimate.com",
-    "Latitude":40.016869
+    "URL":"http://www.americaspledgeonclimate.com"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 0.11718,52.20638 ]
     },
     "properties": {
     "Initiative":"Banking Environment Initiative (BEI)",
-    "URL":"http://www.cisl.cam.ac.uk/business-action/sustainable-finance/banking-environment-initiative",
-    "Latitude":52.20638
+    "URL":"http://www.cisl.cam.ac.uk/business-action/sustainable-finance/banking-environment-initiative"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.14374,46.22238 ]
     },
     "properties": {
     "Initiative":"Below50",
-    "URL":"http://www.below50.org",
-    "Latitude":46.22238
+    "URL":"http://www.below50.org"
     }
   },
   {
@@ -285,32 +262,29 @@
     },
     "properties": {
     "Initiative":"BioCarbon Fund Initiative for Sustainable Forest Landscapes (ISFL)",
-    "URL":"http://www.biocarbonfund-isfl.org/",
-    "Latitude":null
+    "URL":"http://www.biocarbonfund-isfl.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.12367,50.71908 ]
     },
     "properties": {
     "Initiative":"Blue Growth Initiative",
-    "URL":"http://newsroom.unfccc.int/lpaa/agriculture/the-blue-growth-initiative-building-resilience-of-coastal-communities/",
-    "Latitude":50.71908
+    "URL":"http://newsroom.unfccc.int/lpaa/agriculture/the-blue-growth-initiative-building-resilience-of-coastal-communities/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -77.04523,38.91202 ]
     },
     "properties": {
     "Initiative":"Bonn Challenge - Landscape Restoration",
-    "URL":"http://www.bonnchallenge.org/",
-    "Latitude":38.91202
+    "URL":"http://www.bonnchallenge.org/"
     }
   },
   {
@@ -321,68 +295,62 @@
     },
     "properties": {
     "Initiative":"Breakthrough Energy Coalition",
-    "URL":"http://www.b-t.energy/",
-    "Latitude":null
+    "URL":"http://www.b-t.energy/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 2.352222,48.856613 ]
     },
     "properties": {
     "Initiative":"Business Alliance for Water and Climate",
-    "URL":"https://bafwac.org/",
-    "Latitude":48.856613
+    "URL":"https://bafwac.org/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -77.0953,38.88643 ]
     },
     "properties": {
     "Initiative":"Business Environmental Leadership Council (BELC)",
-    "URL":"http://www.c2es.org/business/belc",
-    "Latitude":38.88643
+    "URL":"http://www.c2es.org/business/belc"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -73.74527,42.63927 ]
     },
     "properties": {
     "Initiative":"Business Leadership Criteria on Carbon Pricing",
-    "URL":"http://caringforclimate.org/workstreams/carbon-pricing/",
-    "Latitude":42.63927
+    "URL":"http://caringforclimate.org/workstreams/carbon-pricing/"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -78.83181,42.9365 ]
     },
     "properties": {
     "Initiative":"C40 Cities Climate Leadership Group (C40)",
-    "URL":"http://www.c40.org",
-    "Latitude":42.9365
+    "URL":"http://www.c40.org"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -0.09931,51.51203 ]
     },
     "properties": {
     "Initiative":"C40 Cities Climate Leadership Group (C40)",
-    "URL":"http://www.c40.org",
-    "Latitude":51.51203
+    "URL":"http://www.c40.org"
     }
   }
 ]
