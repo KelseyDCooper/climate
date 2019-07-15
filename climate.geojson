@@ -88,6 +88,1722 @@
     "Initiative":"Adaptation of West African Coastal Areas",
     "URL":"http://www.worldbank.org/en/programs/west-africa-coastal-areas-management-program"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.12984,25.97401 ]
+    },
+    "properties": {
+    "Initiative":"African Forest landscape Restoration (AFR100)",
+    "URL":"http://www.afr100.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02878,38.89456 ]
+    },
+    "properties": {
+    "Initiative":"AgSTAR",
+    "URL":"https://www.epa.gov/agstar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.61548,33.59646 ]
+    },
+    "properties": {
+    "Initiative":"Airport Carbon Accreditation (ACI) Morroco",
+    "URL":"https://airportco2.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396427 ]
+    },
+    "properties": {
+    "Initiative":"Airport Carbon Accreditation (ACI) Asia-Pacific",
+    "URL":"https://airportco2.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.351721,50.850346 ]
+    },
+    "properties": {
+    "Initiative":"Airport Carbon Accreditation (ACI) Europe",
+    "URL":"https://airportco2.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.519867,8.982379 ]
+    },
+    "properties": {
+    "Initiative":"Airport Carbon Accreditation (ACI) Latin America & Caribbean",
+    "URL":"https://airportco2.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.036873,38.907192 ]
+    },
+    "properties": {
+    "Initiative":"Airport Carbon Accreditation (ACI) North America",
+    "URL":"https://airportco2.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.381557,-34.603683 ]
+    },
+    "properties": {
+    "Initiative":"Alliance for Climate Action - Argentinean Alliance for Climate Action",
+    "URL":"https://alliancesforclimateaction.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08527,38.89186 ]
+    },
+    "properties": {
+    "Initiative":"Alliance for Responsible Atmospheric Policy",
+    "URL":"http://www.alliancepolicy.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.209023,28.613939 ]
+    },
+    "properties": {
+    "Initiative":"Alliance for an Energy Efficient Economy (AEEE)",
+    "URL":"http://www.aeee.in/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.279617,40.016869 ]
+    },
+    "properties": {
+    "Initiative":"America’s Pledge",
+    "URL":"http://www.americaspledgeonclimate.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.11718,52.20638 ]
+    },
+    "properties": {
+    "Initiative":"Banking Environment Initiative (BEI)",
+    "URL":"http://www.cisl.cam.ac.uk/business-action/sustainable-finance/banking-environment-initiative"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14374,46.22238 ]
+    },
+    "properties": {
+    "Initiative":"Below50",
+    "URL":"http://www.below50.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.12367,50.71908 ]
+    },
+    "properties": {
+    "Initiative":"Blue Growth Initiative",
+    "URL":"http://newsroom.unfccc.int/lpaa/agriculture/the-blue-growth-initiative-building-resilience-of-coastal-communities/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04523,38.91202 ]
+    },
+    "properties": {
+    "Initiative":"Bonn Challenge - Landscape Restoration",
+    "URL":"http://www.bonnchallenge.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Initiative":"Business Alliance for Water and Climate",
+    "URL":"https://bafwac.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0953,38.88643 ]
+    },
+    "properties": {
+    "Initiative":"Business Environmental Leadership Council (BELC)",
+    "URL":"http://www.c2es.org/business/belc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.74527,42.63927 ]
+    },
+    "properties": {
+    "Initiative":"Business Leadership Criteria on Carbon Pricing",
+    "URL":"http://caringforclimate.org/workstreams/carbon-pricing/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.83181,42.9365 ]
+    },
+    "properties": {
+    "Initiative":"C40 Cities Climate Leadership Group (C40)",
+    "URL":"http://www.c40.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.09931,51.51203 ]
+    },
+    "properties": {
+    "Initiative":"C40 Cities Climate Leadership Group (C40)",
+    "URL":"http://www.c40.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.568337,55.676098 ]
+    },
+    "properties": {
+    "Initiative":"Carbon Neutral Cities Alliance",
+    "URL":"https://carbonneutralcities.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.025371,38.886999 ]
+    },
+    "properties": {
+    "Initiative":"Carbon Sequestration Leadership Forum (CSLF)",
+    "URL":"http://www.cslforum.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.11499,50.723 ]
+    },
+    "properties": {
+    "Initiative":"Carbonn Cities Climate Registry (cCCR)",
+    "URL":"http://carbonn.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.981079,40.738869 ]
+    },
+    "properties": {
+    "Initiative":"Caring for Climate",
+    "URL":"http://www.caringforclimate.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.12367,50.719082 ]
+    },
+    "properties": {
+    "Initiative":"Cities and regions 5-year vision",
+    "URL":"http://newsroom.unfccc.int/media/567513/action-statement_endorsers_english.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.135734,19.19352 ]
+    },
+    "properties": {
+    "Initiative":"Clean Air Asia",
+    "URL":"http://cleanairasia.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.61833,24.42917 ]
+    },
+    "properties": {
+    "Initiative":"Clean Energy Corridors in Africa",
+    "URL":"http://irena.org/cleanenergycorridors"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99182,40.74033 ]
+    },
+    "properties": {
+    "Initiative":"Clean by Design",
+    "URL":"http://www.nrdc.org/international/cleanbydesign/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3546,48.86951 ]
+    },
+    "properties": {
+    "Initiative":"Climate Action in Financial Institutions",
+    "URL":"https://www.mainstreamingclimate.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.38621,50.84211 ]
+    },
+    "properties": {
+    "Initiative":"Climate Alliance",
+    "URL":"http://www.climatealliance.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.09631,50.7327 ]
+    },
+    "properties": {
+    "Initiative":"Climate Neutral Now",
+    "URL":"https://unfccc.int/climate-action/climate-neutral-now"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.82863,47.10463 ]
+    },
+    "properties": {
+    "Initiative":"Climate Risk and Early Warning Systems Initiative",
+    "URL":"http://www.crews-initiative.org/en"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.52614,47.38862 ]
+    },
+    "properties": {
+    "Initiative":"Climate Smart Agriculture Booster (CSA Booster)",
+    "URL":"http://csabooster.climate-kic.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.45666,-33.93093 ]
+    },
+    "properties": {
+    "Initiative":"Climate and Development Knowledge Network (CDKN)",
+    "URL":"https://cdkn.org/?loclang=en_gb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.381264,41.702912 ]
+    },
+    "properties": {
+    "Initiative":"Climate and Land Use Alliance (CLUA)",
+    "URL":"http://www.climateandlandusealliance.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04862,38.85555 ]
+    },
+    "properties": {
+    "Initiative":"Climate, Community and Biodiversity Alliance (CCBA)",
+    "URL":"http://www.climate-standards.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.36907,50.84376 ]
+    },
+    "properties": {
+    "Initiative":"Climate-KIC",
+    "URL":"http://www.climate-kic.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.11718,52.206379 ]
+    },
+    "properties": {
+    "Initiative":"ClimateWise",
+    "URL":"http://www.climatewise.org.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98157,40.76677 ]
+    },
+    "properties": {
+    "Initiative":"Clinton Climate Initiative",
+    "URL":"https://www.clintonfoundation.org/our-work/clinton-climate-initiative"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.56404,45.50039 ]
+    },
+    "properties": {
+    "Initiative":"Collaborative Climate Action Across the Air Transport World",
+    "URL":"http://www.icao.int/newsroom/pages/collaborative-aviation-climate-action-takes-flight.aspx"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.67869,48.11932 ]
+    },
+    "properties": {
+    "Initiative":"Conference of Peripheral Maritime Regions",
+    "URL":"https://cpmr.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.38495,50.844761 ]
+    },
+    "properties": {
+    "Initiative":"Cycling Delivers on the Global Goals",
+    "URL":"https://ecf.com/what-we-do/global-cycling-policies/voluntary-commitment-un"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07661,51.41542 ]
+    },
+    "properties": {
+    "Initiative":"EP100",
+    "URL":"https://www.theclimategroup.org/project/ep100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07661,51.41542 ]
+    },
+    "properties": {
+    "Initiative":"EV100",
+    "URL":"https://www.theclimategroup.org/project/ev100"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.11499,50.723 ]
+    },
+    "properties": {
+    "Initiative":"EcoMobility Alliance",
+    "URL":"http://www.ecomobility.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.37414,50.84259 ]
+    },
+    "properties": {
+    "Initiative":"Energy Cities",
+    "URL":"http://www.energy-cities.eu/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.38383,50.84187 ]
+    },
+    "properties": {
+    "Initiative":"EuroACE",
+    "URL":"https://euroace.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.299028,51.083801 ]
+    },
+    "properties": {
+    "Initiative":"European Initiative for Sustainable Development in Agriculture (EISA)",
+    "URL":"http://www.sustainable-agriculture.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.38522,50.83963 ]
+    },
+    "properties": {
+    "Initiative":"European Technology and Innovation Platform for Wind (ETIPwind)",
+    "URL":"https://etipwind.eu/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.09631,50.7327 ]
+    },
+    "properties": {
+    "Initiative":"Fashion Industry Charter for Climate Action",
+    "URL":"https://unfccc.int/climate-action/sectoral-engagement/global-climate-action-in-fashion/fashion-industry-charter-for-climate-action"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.41359,41.81828 ]
+    },
+    "properties": {
+    "Initiative":"Food Security Climate Resilience Facility",
+    "URL":"http://www.wfp.org/climate-change/initiatives/foodsecure"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1125,50.72389 ]
+    },
+    "properties": {
+    "Initiative":"Forest Stewardship Council",
+    "URL":"http://ic.fsc.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00949,38.90257 ]
+    },
+    "properties": {
+    "Initiative":"Forest Trends",
+    "URL":"http://www.forest-trends.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.301626,48.833709 ]
+    },
+    "properties": {
+    "Initiative":"Global Alliance for Buildings and Construction",
+    "URL":"http://www.globalabc.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04082,38.89892 ]
+    },
+    "properties": {
+    "Initiative":"Global Alliance for Clean Cookstoves",
+    "URL":"http://cleancookstoves.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4938,41.88104 ]
+    },
+    "properties": {
+    "Initiative":"Global Alliance for Climate-Smart Agriculture",
+    "URL":"http://www.fao.org/gacsa/en/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.51133,41.89193 ]
+    },
+    "properties": {
+    "Initiative":"Global Bioenergy Partnership",
+    "URL":"http://www.globalbioenergy.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.30041,48.87622 ]
+    },
+    "properties": {
+    "Initiative":"Global Buildings Performance Network (GBPN)",
+    "URL":"http://www.gbpn.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94517,-37.81587 ]
+    },
+    "properties": {
+    "Initiative":"Global CCS Institute",
+    "URL":"http://www.globalccsinstitute.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12835,51.50742 ]
+    },
+    "properties": {
+    "Initiative":"Global Fuel Economy Initiative (GFEI)",
+    "URL":"http://www.globalfueleconomy.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.047707,38.899578 ]
+    },
+    "properties": {
+    "Initiative":"Global Gas Flaring Reduction Partnership",
+    "URL":"http://www.worldbank.org/en/programs/gasflaringreduction"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.61833,24.42917 ]
+    },
+    "properties": {
+    "Initiative":"Global Geothermal Alliance",
+    "URL":"http://www.globalgeothermalalliance.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.257726,51.752022 ]
+    },
+    "properties": {
+    "Initiative":"Global Initiative on Community Based Adaptation (GICBA)",
+    "URL":"http://www.weadapt.org/knowledge-base/global-initiative-on-community-based-adaptation-gicba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.85358,47.9982 ]
+    },
+    "properties": {
+    "Initiative":"Global Lead City Network on Sustainable Procurement (GLCN)",
+    "URL":"http://www.glcn-on-sp.org/home/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.90432,18.54833 ]
+    },
+    "properties": {
+    "Initiative":"Global Wind Energy Council (GWEC)",
+    "URL":"http://www.gwec.net/about-winds/about-gwec/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.38383,50.84187 ]
+    },
+    "properties": {
+    "Initiative":"Global e-Sustainability Initiative (GeSI)",
+    "URL":"http://gesi.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.13997,46.20381 ]
+    },
+    "properties": {
+    "Initiative":"Gold Standard",
+    "URL":"http://www.goldstandard.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.24201,40.01029 ]
+    },
+    "properties": {
+    "Initiative":"Governors' Climate and Forests Task Force (GCF)",
+    "URL":"https://gcftf.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.84548,1.28293 ]
+    },
+    "properties": {
+    "Initiative":"Green Freight Asia Network (GFAN)",
+    "URL":"http://greenfreightasia.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.11718,52.206379 ]
+    },
+    "properties": {
+    "Initiative":"Green Growth Platform",
+    "URL":"https://www.cisl.cam.ac.uk/business-action/low-carbon-transformation/green-growth-platform"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45203,37.79991 ]
+    },
+    "properties": {
+    "Initiative":"Green e (Climate Standards)",
+    "URL":"https://www.green-e.org/about"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.09631,50.7327 ]
+    },
+    "properties": {
+    "Initiative":"ICLEI - Local Governments for Sustainability",
+    "URL":"http://www.iclei.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00828,38.89914 ]
+    },
+    "properties": {
+    "Initiative":"Initiative 20x20",
+    "URL":"http://www.wri.org/our-work/project/initiative-20x20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12216,51.50979 ]
+    },
+    "properties": {
+    "Initiative":"Institutional Investors Group for Climate Change (IIGCC)",
+    "URL":"http://www.iigcc.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.12525,50.71087 ]
+    },
+    "properties": {
+    "Initiative":"InsuResilience Climate Risk Insurance Initiative",
+    "URL":"http://www.insuresilience.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.92437,41.31608 ]
+    },
+    "properties": {
+    "Initiative":"Interfaith Rainforest Initiative",
+    "URL":"http://fore.yale.edu/news/item/religious-leaders-join-interfaith-rainforest-initiative-in-oslo-today/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.900833,47.03553 ]
+    },
+    "properties": {
+    "Initiative":"International Alliance to Combat Ocean Acidification",
+    "URL":"http://www.oaalliance.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3772,52.50723 ]
+    },
+    "properties": {
+    "Initiative":"International Climate Action Partnership",
+    "URL":"https://icapcarbonaction.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.35085,48.85689 ]
+    },
+    "properties": {
+    "Initiative":"International Development Finance Club (IDFC)",
+    "URL":"https://www.idfc.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.29327,48.85411 ]
+    },
+    "properties": {
+    "Initiative":"International Partnership for Energy Efficiency Cooperation (IPEEC)",
+    "URL":"http://www.ipeec.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.09139,51.51637 ]
+    },
+    "properties": {
+    "Initiative":"International Petroleum Industry Environmental Conservation Association (IPIECA)",
+    "URL":"http://www.ipieca.org/about-us/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02916,38.90161 ]
+    },
+    "properties": {
+    "Initiative":"International Zero-Emission Vehicle Alliance (ZEV Alliance)",
+    "URL":"http://www.zevalliance.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.11718,52.206379 ]
+    },
+    "properties": {
+    "Initiative":"Investment Leaders Group (ILG)",
+    "URL":"http://www.cisl.cam.ac.uk/business-action/sustainable-finance/investment-leaders-group"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14375,46.22327 ]
+    },
+    "properties": {
+    "Initiative":"LCTPi Cement Sustainability Initiative",
+    "URL":"https://www.wbcsd.org/Sector-Projects/Cement-Sustainability-Initiative"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14375,46.22327 ]
+    },
+    "properties": {
+    "Initiative":"LCTPi Climate Smart Agriculture",
+    "URL":"https://www.wbcsd.org/Programs/Food-Land-Water/Food-Land-Use/Climate-Smart-Agriculture"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14375,46.22327 ]
+    },
+    "properties": {
+    "Initiative":"LCTPi Energy Efficiency in Buildings",
+    "URL":"http://lctpi.wbcsd.org/portfolio-item/energy-efficiency-in-buildings/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14375,46.22327 ]
+    },
+    "properties": {
+    "Initiative":"LCTPi Forests",
+    "URL":"http://lctpi.wbcsd.org/portfolio-item/forests/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14375,46.22327 ]
+    },
+    "properties": {
+    "Initiative":"LCTPi Low Carbon Freight",
+    "URL":"http://lctpi.wbcsd.org/portfolio-item/low-carbon-freight/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14375,46.22327 ]
+    },
+    "properties": {
+    "Initiative":"LCTPi Low Carbon Transport Fuels",
+    "URL":"http://lctpi.wbcsd.org/portfolio-item/low-carbon-transport-fuels/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14375,46.22327 ]
+    },
+    "properties": {
+    "Initiative":"LCTPi Renewables",
+    "URL":"http://lctpi.wbcsd.org/portfolio-item/renewables/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.26093,51.14531 ]
+    },
+    "properties": {
+    "Initiative":"Logistics Carbon Reduction Scheme (LCRS)",
+    "URL":"http://www.fta.co.uk/policy_and_compliance/environment/logistics_carbon_reduction_scheme.html"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.13387,51.50095 ]
+    },
+    "properties": {
+    "Initiative":"Low Carbon Vehicle Partnership (LowCVP)",
+    "URL":"https://www.lowcvp.org.uk/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.29186,48.85533 ]
+    },
+    "properties": {
+    "Initiative":"Low-Carbon Sustainable Rail Transport Challenge",
+    "URL":"https://uic.org/cooperation-with-the-united-nations#UIC-Low-Carbon-Rail-Transport-Challenge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.35677,52.00885 ]
+    },
+    "properties": {
+    "Initiative":"Megacities Alliance for Water and Climate",
+    "URL":"https://en.unesco.org/mawac/resources"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.18932,45.46483 ]
+    },
+    "properties": {
+    "Initiative":"Milan Urban Food Policy Pact",
+    "URL":"http://www.milanurbanfoodpolicypact.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.38402,50.84489 ]
+    },
+    "properties": {
+    "Initiative":"MobiliseYourCity Partnership",
+    "URL":"http://www.MobiliseYourCity.net"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.35613,50.8567 ]
+    },
+    "properties": {
+    "Initiative":"Navigating a Changing Climate",
+    "URL":"http://navclimate.pianc.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07283,51.56147 ]
+    },
+    "properties": {
+    "Initiative":"Net Zero Carbon Buildings Commitment",
+    "URL":"https://www.worldgbc.org/thecommitment"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.18089,46.21585 ]
+    },
+    "properties": {
+    "Initiative":"New Vision for Agriculture",
+    "URL":"https://www.weforum.org/projects/new-vision-for-agriculture/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.63174,39.42178 ]
+    },
+    "properties": {
+    "Initiative":"North American Climate Smart Agriculture Alliance (NACSAA)",
+    "URL":"http://www.sfldialogue.net/init_nacsaa.html"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Initiative":"Oil and Gas Climate Initiative",
+    "URL":"http://www.oilandgasclimateinitiative.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.09631,50.7327 ]
+    },
+    "properties": {
+    "Initiative":"Paris Declaration on Electromobility on Climate Change",
+    "URL":"https://unfccc.int/news/the-paris-declaration-on-electro-mobility-and-climate-change-and-call-to-action"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.09631,50.7327 ]
+    },
+    "properties": {
+    "Initiative":"Paris Pact on Water and Adaptation",
+    "URL":"http://newsroom.unfccc.int/lpaa/resilience/paris-pact-on-water-and-adaptation-strengthening-adaptation-to-climate-change-in-the-basins-of-rivers-lakes-and-aquifers/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.11123,46.21303 ]
+    },
+    "properties": {
+    "Initiative":"Partnership for Procurement and Green Growth",
+    "URL":"http://www.greengrowthknowledge.org/learning/partnership-procurement-and-green-growth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.143158,46.204391 ]
+    },
+    "properties": {
+    "Initiative":"Portfolio Decarbonization Coalition",
+    "URL":"http://unepfi.org/pdc/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.008278,38.899139 ]
+    },
+    "properties": {
+    "Initiative":"Promotion of Smart Agriculture Towards Climate Change",
+    "URL":"http://ndcpartnership.org/funding-and-initiatives-navigator/promotion-smart-agriculture-towards-climate-change-west-Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.09631,50.7327 ]
+    },
+    "properties": {
+    "Initiative":"Protection of 400 million Hectares of Forests",
+    "URL":"http://newsroom.unfccc.int/lpaa/forest/protection-of-400-million-hectares-of-forests-by-indigenous-peoples/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.16346,46.29059 ]
+    },
+    "properties": {
+    "Initiative":"R20",
+    "URL":"http://regions20.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.41465,41.81968 ]
+    },
+    "properties": {
+    "Initiative":"R4 Rural Resilience Initiative",
+    "URL":"http://www.wfp.org/climate-change/initiatives/r4-rural-resilience-initiative"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Initiative":"REN21 (Renewable Energy Policy Network for the 21st Century)",
+    "URL":"http://www.ren21.net/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.91489,41.29121 ]
+    },
+    "properties": {
+    "Initiative":"Rainforest Alliance",
+    "URL":"http://www.rainforest-alliance.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.46499,50.18582 ]
+    },
+    "properties": {
+    "Initiative":"Refrigerants, Naturally!",
+    "URL":"http://www.refrigerantsnaturally.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.33509,50.79591 ]
+    },
+    "properties": {
+    "Initiative":"RegionsAdapt",
+    "URL":"http://www.nrg4sd.org/climate-change/regionsadapt/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03317,38.90288 ]
+    },
+    "properties": {
+    "Initiative":"Renewable Energy Buyers Alliance (REBA)",
+    "URL":"http://rebuyers.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373819,48.208176 ]
+    },
+    "properties": {
+    "Initiative":"Renewable Energy and Energy Efficiency Partnership (REEEP)",
+    "URL":"http://www.reeep.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.38441,50.84195 ]
+    },
+    "properties": {
+    "Initiative":"Renovate Europe",
+    "URL":"http://www.renovate-europe.eu/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.74527,42.639271 ]
+    },
+    "properties": {
+    "Initiative":"Responsible Corporate Engagement in Climate Policy",
+    "URL":"http://caringforclimate.org/workstreams/climate-policy-engagement/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14129,46.21056 ]
+    },
+    "properties": {
+    "Initiative":"Roundtable on Sustainable Biomaterials (RSB Standard)",
+    "URL":"http://rsb.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.6775,3.139003 ]
+    },
+    "properties": {
+    "Initiative":"Roundtable on Sustainable Palm Oil (RSPO)",
+    "URL":"http://www.rspo.org/about"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.59273,55.70301 ]
+    },
+    "properties": {
+    "Initiative":"SE4All: Building Efficiency Accelerator",
+    "URL":"http://buildingefficiencyaccelerator.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Initiative":"SE4All: District Energy Accelerator",
+    "URL":"http://www.districtenergyinitiative.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.41081,48.23514 ]
+    },
+    "properties": {
+    "Initiative":"SE4All: Global Energy Efficiency Accelerator Platform (Main)",
+    "URL":"https://www.seforall.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.41081,48.23514 ]
+    },
+    "properties": {
+    "Initiative":"SE4All: Industrial Energy Efficiency Accelerator",
+    "URL":"https://www.seforall.org/partnership/accelerators/energy-efficiency-accelerators/industrial-energy-efficiency"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.41081,48.23514 ]
+    },
+    "properties": {
+    "Initiative":"SE4All: Transport and Motor Vehicle Fuel Efficiency Accelerator",
+    "URL":"https://www.seforall.org/partnership/accelerators/energy-efficiency-accelerators/transport-and-motor-vechicle-fuel-efficiency"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97487,40.75305 ]
+    },
+    "properties": {
+    "Initiative":"SIDS Lighthouses Initiative",
+    "URL":"https://sustainabledevelopment.un.org/partnership/?p=7963"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4938,41.88104 ]
+    },
+    "properties": {
+    "Initiative":"SOCIALCARBON",
+    "URL":"http://www.socialcarbon.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.376,53.37931 ]
+    },
+    "properties": {
+    "Initiative":"Smart Risk Investing (SRI)",
+    "URL":"http://www.icmif.org/news/insurance-industry-double-its-climate-smart-investment-end-2015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.09631,50.7327 ]
+    },
+    "properties": {
+    "Initiative":"Sports for Climate Action",
+    "URL":"https://unfccc.int/climate-action/sectoral-engagement/sports-for-climate-action"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07661,51.415421 ]
+    },
+    "properties": {
+    "Initiative":"States and Regions Annual Disclosure",
+    "URL":"https://www.theclimategroup.org/Annual-Disclosure"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419418,37.774929 ]
+    },
+    "properties": {
+    "Initiative":"Step Up Declaration: Powering Mission 2020",
+    "URL":"https://stepupdeclaration.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.38653,50.83921 ]
+    },
+    "properties": {
+    "Initiative":"Sustainable Agriculture Initiative (SAI) Platform",
+    "URL":"http://www.saiplatform.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0279,9.91748 ]
+    },
+    "properties": {
+    "Initiative":"Sustainable Agriculture Network (SAN)",
+    "URL":"https://www.sustainableagriculture.eco/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.00962,38.90007 ]
+    },
+    "properties": {
+    "Initiative":"Sustainable Mobility for All (SUM4ALL)",
+    "URL":"http://sum4all.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.09467,51.52698 ]
+    },
+    "properties": {
+    "Initiative":"Sustainable Shipping Initiative",
+    "URL":"http://ssi2040.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3635,48.90471 ]
+    },
+    "properties": {
+    "Initiative":"Taxi4SmartCities",
+    "URL":"https://www.rumeurpublique.fr/taxis4smartcities/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.132,-25.96823 ]
+    },
+    "properties": {
+    "Initiative":"The Africa Climate-Smart Agriculture Alliance",
+    "URL":"http://www.nepad.org/programme/climate-smart-agriculture"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.036873,38.907192 ]
+    },
+    "properties": {
+    "Initiative":"The Blue Carbon Initiative",
+    "URL":"http://thebluecarboninitiative.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97393,40.76374 ]
+    },
+    "properties": {
+    "Initiative":"The Climate Group",
+    "URL":"http://www.theclimategroup.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2565,34.04796 ]
+    },
+    "properties": {
+    "Initiative":"The Climate Registry",
+    "URL":"http://www.theclimateregistry.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.92692,37.82624 ]
+    },
+    "properties": {
+    "Initiative":"The New York Declaration on Forests",
+    "URL":"http://nydfglobalplatform.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.12182,52.19853 ]
+    },
+    "properties": {
+    "Initiative":"The Prince of Wales's Corporate Leaders Group (CLG)",
+    "URL":"https://www.corporateleadersgroup.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.11123,46.21303 ]
+    },
+    "properties": {
+    "Initiative":"UN-REDD Programme",
+    "URL":"http://www.un-redd.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.10254,46.19957 ]
+    },
+    "properties": {
+    "Initiative":"UNEP Finance Initiative (UNEP-FI)",
+    "URL":"http://www.unepfi.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.10254,46.19957 ]
+    },
+    "properties": {
+    "Initiative":"UNEP Partnership for Clean Fuels and Vehicles (PCFV)",
+    "URL":"https://www.unenvironment.org/explore-topics/transport/what-we-do/partnership-clean-fuels-and-vehicles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.36171,48.2116 ]
+    },
+    "properties": {
+    "Initiative":"United Smart Cities",
+    "URL":"http://www.unitedsmartcities.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.10254,46.19957 ]
+    },
+    "properties": {
+    "Initiative":"United for Efficiency",
+    "URL":"http://united4efficiency.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.40451,52.53963 ]
+    },
+    "properties": {
+    "Initiative":"Urban Electric Mobility Initiative",
+    "URL":"http://www.uemi.net/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.82003,-1.28579 ]
+    },
+    "properties": {
+    "Initiative":"Urban-LEDS project",
+    "URL":"http://www.urban-leds.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03195,38.90599 ]
+    },
+    "properties": {
+    "Initiative":"Verra (formerly VCS)",
+    "URL":"http://www.verra.org"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.26598,37.81098 ]
+    },
+    "properties": {
+    "Initiative":"Vote Solar Initiative",
+    "URL":"http://votesolar.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.14375,46.22327 ]
+    },
+    "properties": {
+    "Initiative":"WBCSD Urban Infrastructure Initiative",
+    "URL":"http://www.wbcsd.org/Projects/Sustainable-Cities/Resources/The-Urban-Infrastructure-Initiative-UII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.27784,46.4157 ]
+    },
+    "properties": {
+    "Initiative":"WWF Climate Savers",
+    "URL":"http://www.panda.org/climatesavers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.036873,38.907192 ]
+    },
+    "properties": {
+    "Initiative":"WWF Earth Hour City Challenge (EHCC)",
+    "URL":"http://www.worldwildlife.org/stories/smart-cities-making-a-difference"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.08038,51.8823 ]
+    },
+    "properties": {
+    "Initiative":"Walk 21",
+    "URL":"https://www.walk21.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.00195,51.5471 ]
+    },
+    "properties": {
+    "Initiative":"World Green Building Council",
+    "URL":"http://www.worldgbc.org/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04771,38.89958 ]
+    },
+    "properties": {
+    "Initiative":"Zero Routine Flaring by 2030",
+    "URL":"http://www.worldbank.org/en/programs/zero-routine-flaring-by-2030"
+    }
   }
 ]
 }
