@@ -1,6 +1,8 @@
 # An interactive guide to climate initiatives around the world.
 
-Know of a project that isn't mentioned here? Submit a PR. 
+Know of a project that isn't mentioned here? Submit a PR.
+
+Check out the guide and more [here](https://kelseydcooper.github.io/climate).
 ---
 
 # Initiatives 
